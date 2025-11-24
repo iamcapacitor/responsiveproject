@@ -12,3 +12,8 @@
 #### 4. Hologram like ui
 - https://hologram-ui2.vercel.app/
 - react , tailwindcss , gsap
+#### 5. linktree
+- https://linktree-clone-blue-theta.vercel.app/
+- next.js
+#### 6. polynomial Equation graph plotter
+- 
