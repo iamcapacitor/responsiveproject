@@ -4,11 +4,11 @@
 - https://gareeb-aerospace.netlify.app/
 - html , css , javascript
 #### 2. simple whiteboard
-- pati-pencil.vercel.app
+- https://pati-pencil.vercel.app
 - react
 #### 3. Processor comparing
-- processor-comparisor.vercel.app/
+- https://processor-comparisor.vercel.app/
 - next.js , tailwindcss
-#### 4. Hologram ui
-- hologram-ui2.vercel.app/
-- react , tailwindcss
+#### 4. Hologram like ui
+- https://hologram-ui2.vercel.app/
+- react , tailwindcss , gsap
