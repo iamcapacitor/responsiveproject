@@ -16,4 +16,4 @@
 - https://linktree-clone-blue-theta.vercel.app/
 - next.js
 #### 6. polynomial Equation graph plotter
-- 
+- https://ploynomial-equation-graph.vercel.app/
